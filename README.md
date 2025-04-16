@@ -71,6 +71,4 @@ Sou um desenvolvedor apaixonado por criar soluções com código – seja em cam
   </a>
 </p>
 
----
 
-<p>⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, sinta-se à vontade para deixar uma estrela ou contribuir!</p>
