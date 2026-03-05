@@ -1,23 +1,31 @@
-<h1>👋 Olá! Eu sou o Daniel Arndt</h1>
-
-<p>
-  Bem-vindo ao meu perfil no GitHub! 🚀 <br>
-  Sou um desenvolvedor apaixonado por tecnologia, inovação e resolver problemas com código.
-</p>
+# Olá! Eu sou o Daniel Arndt
+Aqui eu publico projetos e estudos que desenvolvo no dia a dia.
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-Sou um desenvolvedor apaixonado por criar soluções com código – seja em camadas visuais, lógicas ou de sistema.
-- 📱 **Desenvolvimento Mobile:** Tenho forte foco em aplicações Flutter. Um dos meus projetos mais completos é o [Talkio](https://github.com/DanielArndt0/Talkio), um app de chat moderno com mensagens em tempo real, status de digitação e arquitetura escalável.
-- 🧰 **Programação de Baixo Nível:** Gosto de explorar os limites do hardware. Criei o [SimpleOS](https://github.com/DanielArndt0/SimpleOS), um sistema operacional minimalista para microcontroladores AVR, totalmente estruturado do zero.
-- 🌐 **Back-end e Integrações:** Experiência com APIs REST, autenticação, e banco de dados em nuvem usando Firebase. Desenvolvi uma biblioteca própria, o [`firebase_rest`](https://github.com/DanielArndt0/firebase_rest), para consumir os serviços Firebase de forma direta e leve, sem depender de SDKs pesados.
-- 💡 Estou sempre explorando novas linguagens, arquiteturas e tecnologias para construir soluções mais eficientes e elegantes.
+Trabalho com desenvolvimento de software e gosto de atuar em diferentes frentes.
+Me interesso por arquitetura, desempenho, integrações e também por hardware.
+
+- **Mobile (Flutter):** [Talkio](https://github.com/DanielArndt0/Talkio) é um app de chat com mensagens em tempo real e status de digitação.
+- **Back-end e integrações:** experiência com APIs, autenticação e cloud. Criei a [`firebase_rest`](https://github.com/DanielArndt0/firebase_rest) para consumir Firebase via REST, com uma abordagem mais leve e direta.
+- **Baixo nível e sistemas:** [SimpleOS](https://github.com/DanielArndt0/SimpleOS) é um sistema operacional minimalista para Atmega328p, feito do zero, com estrutura modular.
+- **Hardware:** gosto de explorar microcontroladores e integração software + hardware, principalmente quando o projeto exige controle fino e otimização.
 
 ---
 
-<h2>🛠️ Tecnologias e Ferramentas</h2>
+## Em desenvolvimento
+
+**LicitaFlow**  
+Software voltado para advogados que atuam com licitações. O foco é facilitar busca, análise e organização de oportunidades, com automação no fluxo.
+
+**Arndt Hub**  
+Hub de ferramentas para uso diário. Reúne utilitários práticos para desenvolvedores e usuários em geral.
+
+---
+
+## Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,41 +42,36 @@ Sou um desenvolvedor apaixonado por criar soluções com código – seja em cam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="NoSQL (MongoDB)" alt="MongoDB" width="40" height="40"/>
 </p>
 
+---
+
+## Projetos em Destaque
+
+**LicitaFlow (em desenvolvimento)**  
+Plataforma para apoiar advogados em licitações, com foco em organização de oportunidades e automação de etapas.
+
+**Arndt Hub (em desenvolvimento)**  
+Coleção de ferramentas para uso diário, com utilitários de diferentes áreas em um só lugar.
+
+**SimpleOS**  
+https://github.com/DanielArndt0/SimpleOS  
+Sistema operacional minimalista para Atmega328p, com arquitetura modular, software serial e gerenciamento de EEPROM.
+
+**Talkio**  
+https://github.com/DanielArndt0/Talkio  
+Aplicativo de chat em Flutter + Firebase, com mensagens em tempo real e status de digitação.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## Onde me encontrar
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielArndt0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielArndt0&layout=compact&langs_count=10&theme=github_dark"/>
-</p>
-
----
-
-<h2>🚀 Projetos em Destaque</h2>
-
-<p>
-  <a href="https://github.com/DanielArndt0/SimpleOS"><strong>🧠 SimpleOS</strong></a><br>
-  Um sistema operacional minimalista feito do zero para microcontroladores Atmega328p, com estrutura modular, software serial e gerenciamento de memória EEPROM.
-</p>
-
-<p>
-  <a href="https://github.com/DanielArndt0/Talkio"><strong>💬 Talkio</strong></a><br>
-  Aplicativo de chat moderno feito com Flutter + Firebase, com foco em mensagens em tempo real, status de digitação, interface fluida e arquitetura escalável.
-</p>
-
----
-
-<h2>🌐 Onde me encontrar</h2>
-
-<p>
-  <a href="mailto:danielarndt959@gmail.com">
-    <img src="https://img.shields.io/badge/email-danielarndt959%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:danielarndt959@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" height="18" alt="Email" />
+    <span>&nbsp;danielarndt959@gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/danielarndt2002/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danielarndt2002/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn" />
+    <span>&nbsp;linkedin.com/in/danielarndt2002</span>
   </a>
 </p>
-
-
