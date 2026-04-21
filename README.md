@@ -1,77 +1,100 @@
-# Olá! Eu sou o Daniel Arndt
-Aqui eu publico projetos e estudos que desenvolvo no dia a dia.
+<h1 align="center">Daniel Arndt</h1>
+
+<p align="center">
+  <strong>Back-end • APIs • Dados • CLI • Embarcados</strong>
+</p>
+
+<p align="center">
+  Desenvolvimento de software voltado para sistemas orientados a dados, automação técnica, APIs e projetos para microcontroladores.
+</p>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Trabalho com desenvolvimento de software e gosto de atuar em diferentes frentes.
-Me interesso por arquitetura, desempenho, integrações e também por hardware.
+Atuo principalmente com **back-end**, **APIs**, **processamento de dados**, **ferramentas de linha de comando** e **sistemas embarcados**.
 
-- **Mobile (Flutter):** [Talkio](https://github.com/DanielArndt0/Talkio) é um app de chat com mensagens em tempo real e status de digitação.
-- **Back-end e integrações:** experiência com APIs, autenticação e cloud. Criei a [`firebase_rest`](https://github.com/DanielArndt0/firebase_rest) para consumir Firebase via REST, com uma abordagem mais leve e direta.
-- **Baixo nível e sistemas:** [SimpleOS](https://github.com/DanielArndt0/SimpleOS) é um sistema operacional minimalista para Atmega328p, feito do zero, com estrutura modular.
-- **Hardware:** gosto de explorar microcontroladores e integração software + hardware, principalmente quando o projeto exige controle fino e otimização.
+Hoje, boa parte do meu trabalho está concentrada em sistemas voltados para **jurídico**, **licitações**, **estruturação e enriquecimento de dados públicos** e soluções com uso técnico e comercial da informação.
+
+---
+
+## Foco atual
+
+| Frente | Direção |
+|------|------|
+| **Jurídico e licitações** | Sistemas para organização, análise e automação de fluxo |
+| **Dados públicos** | Estruturação, processamento, enriquecimento e qualidade de bases |
+| **Back-end e APIs** | Serviços, integrações, autenticação e exposição de dados |
+| **Ferramentas técnicas** | CLIs, bibliotecas e utilitários voltados para produtividade |
+| **Embarcados** | Firmware, microcontroladores, comunicação e controle fino |
+
+---
+
+## Projetos em destaque
+
+| Projeto | Categoria | Descrição |
+|--------|-----------|-----------|
+| **[email-marketing](https://github.com/DanielArndt0/email-marketing)** | Back-end / Dados | Sistema de e-mail marketing em monorepo, com API, worker, fila, persistência e processamento de envios |
+| **[cnpj-api](https://github.com/DanielArndt0/cnpj-api)** | API / Dados | API REST para consulta de dados de CNPJ sobre base local estruturada |
+| **[cnpj-db-loader](https://github.com/DanielArndt0/cnpj-db-loader)** | CLI / Dados | Ferramenta para preparar e importar datasets públicos de CNPJ para PostgreSQL |
+| **[SimpleOS](https://github.com/DanielArndt0/SimpleOS)** | Baixo nível / SO | Sistema operacional minimalista para ATmega328P, desenvolvido do zero |
+| **[Talkio](https://github.com/DanielArndt0/Talkio)** | Mobile | Aplicativo de chat em tempo real com Flutter e Firebase |
+| **[embedded-gemini-client-demo](https://github.com/DanielArndt0/embedded-gemini-client-demo)** | Embarcados / IA aplicada | Demo com ESP32, OLED SSD1306 e integração com Gemini |
 
 ---
 
 ## Em desenvolvimento
 
-**LicitaFlow**  
-Software voltado para advogados que atuam com licitações. O foco é facilitar busca, análise e organização de oportunidades, com automação no fluxo.
-
-**Arndt Hub**  
-Hub de ferramentas para uso diário. Reúne utilitários práticos para desenvolvedores e usuários em geral.
-
----
-
-## Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL (MySQL)" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="NoSQL (MongoDB)" alt="MongoDB" width="40" height="40"/>
-</p>
+| Projeto | Descrição |
+|--------|-----------|
+| **LicitaFlow** | Plataforma voltada para busca, análise, organização e automação de fluxos ligados a licitações |
+| **Arndt Hub** | Hub de ferramentas para uso diário, reunindo utilitários práticos em um só lugar |
 
 ---
 
-## Projetos em Destaque
+## Projetos públicos que podem ajudar a comunidade
 
-**LicitaFlow (em desenvolvimento)**  
-Plataforma para apoiar advogados em licitações, com foco em organização de oportunidades e automação de etapas.
-
-**Arndt Hub (em desenvolvimento)**  
-Coleção de ferramentas para uso diário, com utilitários de diferentes áreas em um só lugar.
-
-**SimpleOS**  
-https://github.com/DanielArndt0/SimpleOS  
-Sistema operacional minimalista para Atmega328p, com arquitetura modular, software serial e gerenciamento de EEPROM.
-
-**Talkio**  
-https://github.com/DanielArndt0/Talkio  
-Aplicativo de chat em Flutter + Firebase, com mensagens em tempo real e status de digitação.
+| Projeto | Tipo | Descrição |
+|--------|------|-----------|
+| **[cnpj-db-loader](https://github.com/DanielArndt0/cnpj-db-loader)** | Dados / CLI | Estruturação de base pública para consulta, integração e reaproveitamento em outros sistemas |
+| **[cnpj-api](https://github.com/DanielArndt0/cnpj-api)** | API | Exposição de dados estruturados de CNPJ para consumo por aplicações |
+| **[pydf](https://github.com/DanielArndt0/pydf)** | Biblioteca / CLI | Biblioteca e ferramenta de linha de comando para leitura de campos em PDF |
+| **[cli-example](https://github.com/DanielArndt0/cli-example)** | Exemplo / Template | Template reutilizável para criação de CLI em TypeScript |
+| **[email-marketing](https://github.com/DanielArndt0/email-marketing)** | Sistema / Referência | Base de arquitetura para gerenciamento de campanhas, listas e processamento de envios |
 
 ---
 
-## Onde me encontrar
+## Projetos públicos voltados para estudo, testes e referência
 
-<p align="center">
-  <a href="mailto:danielarndt959@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" height="18" alt="Email" />
-    <span>&nbsp;danielarndt959@gmail.com</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/danielarndt2002/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" alt="LinkedIn" />
-    <span>&nbsp;linkedin.com/in/danielarndt2002</span>
-  </a>
-</p>
+| Projeto | Tema | Descrição |
+|--------|------|-----------|
+| **[SimpleOS](https://github.com/DanielArndt0/SimpleOS)** | Baixo nível / SO | Estrutura modular para sistema operacional voltado a microcontroladores |
+| **[Talkio](https://github.com/DanielArndt0/Talkio)** | Mobile | App de chat em tempo real com recursos modernos de interação |
+| **[embedded-gemini-client-demo](https://github.com/DanielArndt0/embedded-gemini-client-demo)** | Embarcados / IA aplicada | Integração embarcada com ESP32, OLED e Gemini |
+| **[analog-read-pic](https://github.com/DanielArndt0/analog-read-pic)** | PIC / ADC | Exemplo de leitura analógica em PIC16F877A |
+| **[pic-eeprom-library](https://github.com/DanielArndt0/pic-eeprom-library)** | PIC / EEPROM | Exemplo de leitura e escrita em EEPROM para PIC12F629 e PIC12F675 |
+| **[pic-pulse-generator](https://github.com/DanielArndt0/pic-pulse-generator)** | PIC | Gerador de pulso em PIC16F648A com display multiplexado |
+| **[landmarks-swiftui](https://github.com/DanielArndt0/landmarks-swiftui)** | SwiftUI / Estudo | Aplicativo iOS de estudo com listas, navegação, JSON local e mapas |
+| **[esp32-ssid-spammer](https://github.com/DanielArndt0/esp32-ssid-spammer)** | Redes / Estudo | Projeto experimental de estudo sobre comportamento de beacon frames em ambiente controlado |
+
+---
+
+## Tecnologias e frentes recorrentes
+
+- TypeScript / Node.js
+- Flutter / Dart
+- PostgreSQL
+- Firebase
+- Redis / BullMQ
+- APIs REST
+- Python
+- C / C++
+- Swift / SwiftUI
+- Microcontroladores e sistemas embarcados
+
+---
+
+## Contato
+
+- **Email:** [danielarndt959@gmail.com](mailto:danielarndt959@gmail.com)
+- **LinkedIn:** [linkedin.com/in/danielarndt2002](https://www.linkedin.com/in/danielarndt2002/)
