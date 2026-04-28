@@ -26,28 +26,6 @@ Atualmente, meu foco está principalmente em:
 
 ---
 
-## Projetos em destaque
-
-| Projeto | Categoria | Descrição |
-|--------|-----------|-----------|
-| **[Email Marketing](https://github.com/DanielArndt0/email-marketing)** | Back-end / Dados | Sistema de e-mail marketing em monorepo, com API, worker, fila, persistência e processamento de envios |
-| **[API CNPJ](https://github.com/DanielArndt0/cnpj-api)** | API / Dados | API REST para consulta de dados de CNPJ sobre base local estruturada |
-| **[CNPJ DB Loader](https://github.com/DanielArndt0/cnpj-db-loader)** | CLI / Dados | Ferramenta para preparar e importar datasets públicos de CNPJ para PostgreSQL |
-| **[SimpleOS](https://github.com/DanielArndt0/SimpleOS)** | Baixo nível / OS | Sistema operacional minimalista para ATmega328P, desenvolvido do zero |
-| **[Talkio](https://github.com/DanielArndt0/Talkio)** | Mobile | Aplicativo de chat em tempo real com Flutter e Firebase |
-| **[Gemini Embarcado](https://github.com/DanielArndt0/embedded-gemini-client-demo)** | Embarcados / IA aplicada | Demo com ESP32, OLED SSD1306 e integração com Gemini |
-
----
-
-## Em desenvolvimento
-
-| Projeto | Descrição |
-|--------|-----------|
-| **LicitaFlow** | Plataforma voltada para busca, análise, organização e automação de fluxos ligados a licitações |
-| **Arndt Hub** | Hub de ferramentas para uso diário, reunindo utilitários práticos em um só lugar |
-
----
-
 ## Projetos públicos que podem ajudar a comunidade
 
 | Projeto | Tipo | Descrição |
