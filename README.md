@@ -70,6 +70,17 @@ Também mantenho projetos voltados a **estudo, experimentação e exploração d
 
 ---
 
+## Gists e utilitários
+
+Pequenas ferramentas e snippets para facilitar tarefas recorrentes no ambiente de desenvolvimento.
+
+* **[CMD Context Menu](https://gist.github.com/DanielArndt0/1fc9d7924cf932890923ee3a5ca0dd17)** — adiciona **Open CMD here** ao menu de contexto do Windows.
+
+* **[PowerShell Context Menu](https://gist.github.com/DanielArndt0/b0fd12d9ca7707425fcd84d6f183c1ee)** — adiciona **Open PowerShell here** ao menu de contexto do Windows.
+
+
+---
+
 ## Atualmente
 
 Atuo no desenvolvimento de produtos e soluções na **[NDT Digital](https://ndtdigital.com.br)**, trabalhando com **sistemas web, APIs, integrações, automação, processamento de dados e infraestrutura de aplicações**.
