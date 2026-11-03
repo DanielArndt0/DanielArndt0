@@ -33,13 +33,13 @@ Projetos práticos com ESP32, PIC e Arduino, voltados a comunicação, periféri
 * [PIC Timer](https://github.com/DanielArndt0/pic-timer): exemplo de Timer0 e interrupções no PIC16F628A.
 * [Intervalômetro](https://github.com/DanielArndt0/intervalometro): controlador de disparos para câmeras DSLR com Arduino Nano e display OLED.
 
-## Bibliotecas e outros estudos
+## Bibliotecas e projetos
 
 * **C/C++:** [Num](https://github.com/DanielArndt0/num), [Vector](https://github.com/DanielArndt0/vector), [Duet](https://github.com/DanielArndt0/duet), [Same](https://github.com/DanielArndt0/same) e [Bitkit](https://github.com/DanielArndt0/bitkit). Bibliotecas leves, principalmente header-only.
+* [SimpleOS](https://github.com/DanielArndt0/SimpleOS): projeto experimental de sistema operacional e desenvolvimento de componentes de baixo nível.
 * [Talkio](https://github.com/DanielArndt0/Talkio): aplicativo de mensagens em tempo real com Flutter e Firebase.
-* [CLI Example](https://github.com/DanielArndt0/cli-example): template reutilizável para ferramentas CLI em TypeScript.
-* [Prisma P1000 Troubleshooting](https://github.com/DanielArndt0/prisma-p1000-troubleshooting): guia prático para diagnosticar falhas de autenticação com Prisma e PostgreSQL.
-* [Gists](https://gist.github.com/DanielArndt0): scripts e trechos de código para tarefas pontuais.
+* [CLI Example](https://github.com/DanielArndt0/cli-example): template reutilizável para desenvolvimento de ferramentas CLI em TypeScript.
+* [Gists](https://gist.github.com/DanielArndt0): scripts, exemplos e utilitários de programação.
 
 Veja também meus [demais repositórios](https://github.com/DanielArndt0?tab=repositories). Sugestões e contribuições são bem-vindas.
 
