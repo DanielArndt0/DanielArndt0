@@ -1,6 +1,4 @@
-# Daniel Arndt
-
-**Desenvolvedor de Software | Sistemas Web, APIs e Integrações**
+# **Daniel Arndt**
 
 Desenvolvo aplicações web, APIs, integrações e automações. Atualmente, atuo na [NDT digital.](https://ndtdigital.com.br), trabalhando com desenvolvimento de sistemas, produtos digitais e infraestrutura de aplicações.
 
