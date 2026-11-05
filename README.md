@@ -1,8 +1,8 @@
 # **Daniel Arndt**
 
-Desenvolvo aplicações web, APIs, integrações e automações. Atualmente, atuo na [NDT digital.](https://ndtdigital.com.br), trabalhando com desenvolvimento de sistemas, produtos digitais e infraestrutura de aplicações.
+Desenvolvo aplicações web, APIs, integrações e automações. Atualmente, atuo na [NDT digital](https://ndtdigital.com.br/), trabalhando com desenvolvimento de sistemas, produtos digitais e infraestrutura de aplicações.
 
-Também mantenho projetos open source e ferramentas próprias. Tenho interesse especial em C++, desenvolvimento de bibliotecas, sistemas embarcados e programação de baixo nível.
+Também mantenho projetos open source (código aberto) e ferramentas próprias. Nos meus momentos livres, gosto de estudar C++, desenvolver bibliotecas e explorar conceitos de sistemas embarcados e programação de baixo nível.
 
 ## Projetos em destaque
 
